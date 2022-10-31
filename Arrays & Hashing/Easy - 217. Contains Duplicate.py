@@ -4,16 +4,16 @@
 # and return false if every element is distinct.
 
 # Example 1:
-# Input: nums = [1,2,3,1]
-# Output: true
+    # Input: nums = [1,2,3,1]
+    # Output: true
 
 # Example 2:
-# Input: nums = [1,2,3,4]
-# Output: false
+    # Input: nums = [1,2,3,4]
+    # Output: false
 
 # Constraints:
-# 1 <= nums.length <= 105
-# -109 <= nums[i] <= 109
+    # 1 <= nums.length <= 105
+    # -109 <= nums[i] <= 109
 
 # Topic: Hashing
 # nums is iterated to store each num in a dictionary
