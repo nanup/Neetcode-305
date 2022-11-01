@@ -15,7 +15,8 @@
     # -100 <= Node.val <= 100
 
 # Topic: Trees
-# 
+# A stack is used to maintain a list of nodes in one level. The branches are swapped
+# and these branch nodes are added to the stack. Repeated until the stack is empty.
 
 # Time Complexity: O(N)
 # Space Complexity: O(N)

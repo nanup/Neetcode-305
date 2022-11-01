@@ -10,7 +10,7 @@
     # Input: head = [1,2]
     # Output: [2,1]
 
-# Topic: Linked List
+# Topic: LinkedList
 # Three consecutive identifiers previous, head and next are carefully manipulated to reverse order
 
 # Time Complexity: O(N)
